@@ -5,17 +5,11 @@ public class Main {
     
     public static void main(String[] args) {
         
-        int x;
-         
         System.out.println("Enter the first number");
-        
-        int y;
-
+        int x;
         System.out.println("Enter the second number");
-        
-        
+        int y;
         int sum = x + y;
-        
         System.out.println("Sum is " + sum);
     }
 }
