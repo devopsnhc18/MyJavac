@@ -1,10 +1,11 @@
+//This is for jenkins
 import java.util.*;
 
 public class Main {
     
     public static void main(String[] args) {
         
-        int x = 89, y = 43;
+        int x, y;
         
         int sum = x + y;
         
