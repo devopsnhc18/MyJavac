@@ -1,8 +1,9 @@
 //This is for jenkins
 import java.util.*;
 public class Main {
-    
     public static void main(String[] args) {
+
+        Scanner scn=new Scanner(System.in);
         
         System.out.println("Enter the first number");
         int x = scn.nextInt();
